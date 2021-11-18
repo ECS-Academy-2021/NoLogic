@@ -1,0 +1,22 @@
+{
+  "name": "nologic",
+  "version": "1.0.0",
+  "description": "Philip &amp; Adam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECS-Academy-2021/NoLogic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ECS-Academy-2021/NoLogic/issues"
+  },
+  "homepage": "https://github.com/ECS-Academy-2021/NoLogic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
