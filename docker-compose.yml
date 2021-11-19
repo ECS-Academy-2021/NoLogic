@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  serviceNoLogic:
+    image: nologicwork
+    deploy:
+      replicas: 4
+    # networks:
+    # - nologicnetwork
+    ports:
+    - "3000:80"
+
+# networks:
+#     nologicnetwork:

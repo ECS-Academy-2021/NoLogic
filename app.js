@@ -1,7 +1,7 @@
 const express = require("express"); // Install express framework
 const app = express(); // Create express app
 const path = require("path");
-const port = 3000; // Set port variable
+const port = 80; // Set port variable
 
 app.get("/", (req, res) => {
   // Create get request on '/' to respond with team name
